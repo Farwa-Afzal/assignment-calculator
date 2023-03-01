@@ -1,1 +1,1 @@
-console.log("multiply-divide");
+console.log("divide-sum");
