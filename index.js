@@ -6,3 +6,10 @@ function sum(){
     console.log("Result is: ", c);
 }
 sum();
+function multiply(){
+    let a = 6;
+    let b = 3;
+    let c = a*b;
+    console.log("Result is: ", c);
+}
+multiply()
